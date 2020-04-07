@@ -24,3 +24,5 @@ npm install
 
 npm run start
 
+![Image of Todolist app](https://github.com/smiley168/to-do-list-app.git/app/public/ToDoList-screencastly.gif)
+[a relative link](app/public/ToDoList-screencastly.gif)
